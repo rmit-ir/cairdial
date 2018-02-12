@@ -24,41 +24,51 @@ The special session will create a forum to present and plan research directions 
 
 The session welcomes a broad range of techniques and studies that can contribute to the understanding and development of conversational approaches to Information Retrieval. Potential topics include (but are not limited to):
  - User intent recognition and search process management.
-◦       Approaches to dialog management and dialog state tracking suitable for search
-◦       Processing verbose natural language queries / noisy ASR
-◦       Query intent disambiguation, clarification, confirmation
-◦       Succinct clarification strategies and directed feedback
-◦       Interaction patterns for conversational search
+    - Approaches to dialog management and dialog state tracking suitable for search
+    - Processing verbose natural language queries / noisy ASR
+    - Query intent disambiguation, clarification, confirmation
+    - Succinct clarification strategies and directed feedback
+    - Interaction patterns for conversational search
  - Search result presentation.
-◦       Language generation for appropriate descriptions of search results
-◦       Summarisation of long lists of search results from unstructured information
-◦       Conversational navigation of search results
+    - Language generation for appropriate descriptions of search results
+    - Summarisation of long lists of search results from unstructured information
+    - Conversational navigation of search results
  - Evaluation.
-◦       Building test collections for conversational search evaluation
-◦       Frameworks and metrics to measure effectiveness, engagement, and user satisfaction of conversational search systems 
+    - Building test collections for conversational search evaluation
+    - Frameworks and metrics to measure effectiveness, engagement, and user satisfaction of conversational search systems 
  - Applications.
-◦       Intelligent digital assistants
-◦       Proactive search/recommendation
-◦       Collaborative search
-◦       Search for visually impaired users
-◦       Search for low literacy users
-◦       Integration with existing technologies
+    - Intelligent digital assistants
+    - Proactive search/recommendation
+    - Collaborative search
+    - Search for visually impaired users
+    - Search for low literacy users
+    - Integration with existing technologies
+    
+### Submissions
+ - **Long papers and short papers** will present original research and go through the regular SIGIDAL peer review process by the general SIGdial program committee. These papers will appear in the main SIGDIAL proceedings and are presented with the main track. Long papers must be no longer than eight pages, including title, text, figures and tables, along with two additional pages for example discourses or dialogues and algorithms. Short papers should be no longer than four pages including title, text, figures and tables, along with one additional page for example discourses or dialogues and algorithms. An unlimited number of pages are allowed for references.
 
+ - **Position papers** will showcase ongoing work and focused, relevant contributions. Submissions are limited to four pages including references. These will be reviewed by the special session organizers and posted on the special session website. These papers will be presented as lightning talks or posters during the session. Authors will retain the copyright to their work so that they may submit to other venues as their work matures.
 
-1. Numbered
-2. List
+**Multiple Submissions.** Papers that have been or will be submitted to other meetings or publications must provide this information (see submission link). SIGDIAL Special Sessions cannot accept work for publication or presentation that will be (or has been) published elsewhere. 
+**Blind Review.** The Special Session will follow SIGDIAL 2018 policies for preserving the integrity of double blind review (see author guidelines). Unlike long and short papers, demo descriptions will not be anonymous. Demo descriptions should include the authors' names and affiliations, and self-references are allowed.
+**Sumbission Format.** All long, short, and demonstration submissions must follow the two-column ACL 2018 format. Authors are expected to use the ACL LaTeX style template or Microsoft Word style template from the ACL 2018 conference. Submissions must conform to the official ACL 2018 style guidelines, which are contained in these templates. Submissions must be electronic, in PDF format.
+Submission Link. To submit a long or short paper, please go to the SIGDIAL 2018 main page for conference submissions (**deadline March 11**). When submitting, indicate “Conversational Approaches to Information Search, Retrievals, and Presentation” as the candidate special session. All long and short submissions must follow the SIGDIAL 2018 format. To submit a position paper, please submit by emailing cairdial@googlegroups.com by **April 28**.
 
-**Bold** and _Italic_ and `Code` text
+## Important Dates
 
-[Link](url) and ![Image](src)
-```
+ - Long and short papers deadline: **March 11, 2018**
+ - Position papers deadline: **April 28, 2018**
+ - Special Session at SIGDIAL 2018: **uly 12-14, 2018**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Session Committee
 
-### Jekyll Themes
+ - [Lawrence Cavedon](http://goanna.cs.rmit.edu.au/~lcavedon/), RMIT University (primary contact)
+ - [Hideo Joho](http://www.slis.tsukuba.ac.jp/~hideo/), Univerity of Tsukuba
+ - [Filip Radlinksi](http://www.radlinski.org/), Google London
+ - [Hanna Silen](https://scholar.google.fi/citations?user=2eJmg08AAAAJ&hl=en), Google Zurich
+ - [Damiano Spina](http://www.damianospina.com), RMIT University
+ - [Johanne Trippas](http://johannetrippas.com/), RMIT University
+ - [Jason Williams](https://www.microsoft.com/en-us/research/people/jawillia/), Microsoft Research
+ 
+ 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rmit-ir/cairdial/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
