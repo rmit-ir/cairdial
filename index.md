@@ -1,11 +1,3 @@
-# SIGDIAL 2018 Special Session on Conversational Approaches to Information Search, Retrievals, and Presentation
-
-Special Session at [SIGDIAL 2018](www.sigdial.org/workshops/conference19/)
-
-Melbourne, Australia
-
-July 12-14, 2018
-
 ## Overview
 
 While information search via modern search engines represents one of the great technology contributions of the past twenty years, complex information search, particularly over unstructured text and non-textual information (e.g., images), poses challenges for speech-only interfaces. In particular, processing long lists of information akin to a list of search results is cognitively demanding and simple rendering of search engine result lists via speech has been shown to be ineffective from a HCI perspective, and it has been suggested that approaches supporting greater interactivity via spoken dialogue present greater promise. The special session will create a forum to present and plan research directions on conversational approaches to Information Search. A specific focus is on techniques that support complex and multi-turn user-machine dialogues for information access and retrieval, and spoken and multi-modal interfaces for interacting with such systems. We invite submissions addressing all modalities of conversation, including speech-based, text-based, and multimodal interaction. We also welcome studies of human-human interaction (e.g., collaborative search) that can inform the design of conversational search applications, as well as work on evaluation of conversational approaches to information search.
