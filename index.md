@@ -1,5 +1,11 @@
 # SIGDIAL 2018 Special Session on Conversational Approaches to Information Search, Retrievals, and Presentation
 
+Special Session at [SIGDIAL 2018](www.sigdial.org/workshops/conference19/)
+
+Melbourne, Australia
+
+July 12-14, 2018
+
 ## Overview
 
 While information search via modern search engines represents one of the great technology contributions of the past twenty years, complex information search, particularly over unstructured text and non-textual information (e.g., images), poses challenges for speech-only interfaces. In particular, processing long lists of information akin to a list of search results is cognitively demanding and simple rendering of search engine result lists via speech has been shown to be ineffective from a HCI perspective, and it has been suggested that approaches supporting greater interactivity via spoken dialogue present greater promise. The special session will create a forum to present and plan research directions on conversational approaches to Information Search. A specific focus is on techniques that support complex and multi-turn user-machine dialogues for information access and retrieval, and spoken and multi-modal interfaces for interacting with such systems. We invite submissions addressing all modalities of conversation, including speech-based, text-based, and multimodal interaction. We also welcome studies of human-human interaction (e.g., collaborative search) that can inform the design of conversational search applications, as well as work on evaluation of conversational approaches to information search.
@@ -50,9 +56,12 @@ The session welcomes a broad range of techniques and studies that can contribute
  - **Position papers** will showcase ongoing work and focused, relevant contributions. Submissions are limited to four pages including references. These will be reviewed by the special session organizers and posted on the special session website. These papers will be presented as lightning talks or posters during the session. Authors will retain the copyright to their work so that they may submit to other venues as their work matures.
 
 **Multiple Submissions.** Papers that have been or will be submitted to other meetings or publications must provide this information (see submission link). SIGDIAL Special Sessions cannot accept work for publication or presentation that will be (or has been) published elsewhere. 
+
 **Blind Review.** The Special Session will follow SIGDIAL 2018 policies for preserving the integrity of double blind review (see author guidelines). Unlike long and short papers, demo descriptions will not be anonymous. Demo descriptions should include the authors' names and affiliations, and self-references are allowed.
+
 **Sumbission Format.** All long, short, and demonstration submissions must follow the two-column ACL 2018 format. Authors are expected to use the ACL LaTeX style template or Microsoft Word style template from the ACL 2018 conference. Submissions must conform to the official ACL 2018 style guidelines, which are contained in these templates. Submissions must be electronic, in PDF format.
-Submission Link. To submit a long or short paper, please go to the SIGDIAL 2018 main page for conference submissions (**deadline March 11**). When submitting, indicate “Conversational Approaches to Information Search, Retrievals, and Presentation” as the candidate special session. All long and short submissions must follow the SIGDIAL 2018 format. To submit a position paper, please submit by emailing cairdial@googlegroups.com by **April 28**.
+
+**Submission Link.** To submit a long or short paper, please go to the [SIGDIAL 2018 main page for conference submissions](http://www.sigdial.org/workshops/conference19/calls.html#callforpapers) (**deadline March 11**). When submitting, indicate “Conversational Approaches to Information Search, Retrievals, and Presentation” as the candidate special session. All long and short submissions must follow the SIGDIAL 2018 format. To submit a position paper, please submit by emailing cairdial@googlegroups.com by **April 28**.
 
 ## Important Dates
 
