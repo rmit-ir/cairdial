@@ -43,6 +43,10 @@ The session welcomes a broad range of techniques and studies that can contribute
     - Integration with existing technologies
     
 ### Submissions
+
+Authors may choose to submit long or short research papers, or position
+papers.
+
  - **Long papers and short papers**: Deadline March 11 2018.
  
 Long or short research papers will present original research and go through
