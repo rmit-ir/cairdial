@@ -43,9 +43,30 @@ The session welcomes a broad range of techniques and studies that can contribute
     - Integration with existing technologies
     
 ### Submissions
- - **Long papers and short papers** will present original research and go through the regular SIGIDAL peer review process by the general SIGdial program committee. These papers will appear in the main SIGDIAL proceedings and are presented with the main track. Long papers must be no longer than eight pages, including title, text, figures and tables, along with two additional pages for example discourses or dialogues and algorithms. Short papers should be no longer than four pages including title, text, figures and tables, along with one additional page for example discourses or dialogues and algorithms. An unlimited number of pages are allowed for references.
+ - **Long papers and short papers**: Deadline March 11 2018.
+ 
+Long or short research papers will present original research and go through
+the regular SIGDIAL peer review process by the general SIGDIAL program
+committee. These papers will appear in the SIGDIAL 2018 conference
+proceedings.
+Long and short research papers must conform to the rules in the SIGDIAL
+call for papers, and must be submitted by March 11 via the standard SIGdial
+submission system – on the submission form, indicate this is a submission
+to the Special Session on Conversational Approaches to Information Search,
+Retrieval and Presentation.
 
- - **Position papers** will showcase ongoing work and focused, relevant contributions. Submissions are limited to four pages including references. These will be reviewed by the special session organizers and posted on the special session website. These papers will be presented as lightning talks or posters during the session. Authors will retain the copyright to their work so that they may submit to other venues as their work matures.
+ - **Position papers**: Deadline April 28 2018.
+ 
+Position paper will raise challenges, demonstrate/argue for the need for
+specific new approaches, or showcase ongoing work.
+Position paper submissions are limited to FOUR pages including references.
+These will be reviewed by the special session organizers and posted on the
+special session website. These papers will be presented as lightning talks
+or posters during the session. Authors will retain the copyright to their
+work so that they may submit to other venues as their work matures.
+Position papers are to be submitted by April 28 and emailed directly to
+cairdial@googlegroups.com
+
 
 **Multiple Submissions.** Papers that have been or will be submitted to other meetings or publications must provide this information (see submission link). SIGDIAL Special Sessions cannot accept work for publication or presentation that will be (or has been) published elsewhere. 
 
