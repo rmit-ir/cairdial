@@ -59,7 +59,7 @@ The session welcomes a broad range of techniques and studies that can contribute
 
  - Long and short papers deadline: **March 11, 2018**
  - Position papers deadline: **April 28, 2018**
- - Special Session at SIGDIAL 2018: **uly 12-14, 2018**
+ - Special Session at SIGDIAL 2018: **July 12-14, 2018**
 
 ## Session Committee
 
