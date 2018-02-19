@@ -85,7 +85,7 @@ cairdial@googlegroups.com
 
 **Sumbission Format.** All long, short, and demonstration submissions must follow the two-column ACL 2018 format. Authors are expected to use the ACL [LaTeX style template](http://acl2018.org/downloads/acl18-latex.zip) or [Microsoft Word style template](http://acl2018.org/downloads/acl18-word.zip) from the ACL 2018 conference. Submissions must conform to the official ACL 2018 style guidelines, which are contained in these templates. Submissions must be electronic, in PDF format.
 
-**Submission Link.** To submit a long or short paper, please go to the [SIGDIAL 2018 main page for conference submissions](http://www.sigdial.org/workshops/conference19/calls.html#callforpapers) (**deadline March 11**). When submitting, indicate “Conversational Approaches to Information Search, Retrievals, and Presentation” as the candidate special session. All long and short submissions must follow the SIGDIAL 2018 format. To submit a position paper, please submit by emailing cairdial@googlegroups.com by **April 28**.
+**Submission Link.** To submit a long or short paper, please go to the [SIGDIAL 2018 main page for conference submissions](http://www.sigdial.org/workshops/conference19/calls.html#callforpapers) (**deadline March 11**). When submitting, indicate “Conversational Approaches to Information Search, Retrievals, and Presentation” as the candidate special session. All long and short submissions must follow the SIGDIAL 2018 format. To submit a position paper, please submit by emailing [cairdial@googlegroups.com](mailto:cairdial@googlegroups.com) by **April 28**.
 
 # Important Dates
 
@@ -96,6 +96,7 @@ cairdial@googlegroups.com
 # Session Committee
 
  - [Lawrence Cavedon](http://goanna.cs.rmit.edu.au/~lcavedon/), RMIT University (primary contact)
+ - [Helen Hastie](www.macs.hw.ac.uk/~hh117/), Heriot-Watt University
  - [Hideo Joho](http://www.slis.tsukuba.ac.jp/~hideo/), Univerity of Tsukuba
  - [Filip Radlinksi](http://www.radlinski.org/), Google London
  - [Hanna Silen](https://scholar.google.fi/citations?user=2eJmg08AAAAJ&hl=en), Google Zurich
