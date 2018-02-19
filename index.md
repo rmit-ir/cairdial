@@ -96,7 +96,7 @@ cairdial@googlegroups.com
 # Session Committee
 
  - [Lawrence Cavedon](http://goanna.cs.rmit.edu.au/~lcavedon/), RMIT University (primary contact)
- - [Helen Hastie](www.macs.hw.ac.uk/~hh117/), Heriot-Watt University
+ - [Helen Hastie](http://www.macs.hw.ac.uk/~hh117/), Heriot-Watt University
  - [Hideo Joho](http://www.slis.tsukuba.ac.jp/~hideo/), Univerity of Tsukuba
  - [Filip Radlinksi](http://www.radlinski.org/), Google London
  - [Hanna Silen](https://scholar.google.fi/citations?user=2eJmg08AAAAJ&hl=en), Google Zurich
