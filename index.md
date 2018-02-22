@@ -99,7 +99,7 @@ cairdial@googlegroups.com
  - [Helen Hastie](http://www.macs.hw.ac.uk/~hh117/), Heriot-Watt University
  - [Hideo Joho](http://www.slis.tsukuba.ac.jp/~hideo/), Univerity of Tsukuba
  - [Filip Radlinksi](http://www.radlinski.org/), Google London
- - [Hanna Silen](https://scholar.google.fi/citations?user=2eJmg08AAAAJ&hl=en), Google Zurich
+ - [Hanna Silen](https://scholar.google.fi/citations?user=2eJmg08AAAAJ&hl=en), Google London
  - [Damiano Spina](http://www.damianospina.com), RMIT University
  - [Johanne Trippas](http://johannetrippas.com/), RMIT University
  - [Jason Williams](https://www.microsoft.com/en-us/research/people/jawillia/), Microsoft Research
