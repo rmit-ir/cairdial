@@ -90,7 +90,7 @@ cairdial@googlegroups.com
 # Important Dates
 
  - Long and short papers deadline: ~~**March 11, 2018**~~
- - Position papers deadline: ~~**April 28, 2018**~~ **May 5, 2018 (extended)**
+ - Position papers deadline: ~~April 28, 2018~~ **May 5, 2018 (extended)**
  - Special Session at SIGDIAL 2018: **July 12-14, 2018**
 
 # Session Committee
