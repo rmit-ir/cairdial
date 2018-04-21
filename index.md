@@ -66,7 +66,7 @@ submission system – on the submission form, indicate this is a submission
 to the Special Session on Conversational Approaches to Information Search,
 Retrieval and Presentation.
 
- - **Position papers**: Deadline April 28 2018.
+ - **Position papers**: Deadline ~~April 28 2018~~ **May 5, 2018 (extended)**.
  
 Position paper will raise challenges, demonstrate/argue for the need for
 specific new approaches, or showcase ongoing work.
@@ -85,12 +85,12 @@ cairdial@googlegroups.com
 
 **Sumbission Format.** All long, short, and demonstration submissions must follow the two-column ACL 2018 format. Authors are expected to use the ACL [LaTeX style template](http://acl2018.org/downloads/acl18-latex.zip) or [Microsoft Word style template](http://acl2018.org/downloads/acl18-word.zip) from the ACL 2018 conference. Submissions must conform to the official ACL 2018 style guidelines, which are contained in these templates. Submissions must be electronic, in PDF format.
 
-**Submission Link.** To submit a long or short paper, please go to the [SIGDIAL 2018 main page for conference submissions](http://www.sigdial.org/workshops/conference19/calls.html#callforpapers) ~~(deadline March 11)~~. When submitting, indicate “Conversational Approaches to Information Search, Retrievals, and Presentation” as the candidate special session. All long and short submissions must follow the SIGDIAL 2018 format. To submit a position paper, please submit by emailing [cairdial@googlegroups.com](mailto:cairdial@googlegroups.com) by ~~April 28~~**May 5 (extended)**.
+**Submission Link.** To submit a long or short paper, please go to the [SIGDIAL 2018 main page for conference submissions](http://www.sigdial.org/workshops/conference19/calls.html#callforpapers) ~~(deadline March 11)~~. When submitting, indicate “Conversational Approaches to Information Search, Retrievals, and Presentation” as the candidate special session. All long and short submissions must follow the SIGDIAL 2018 format. To submit a position paper, please submit by emailing [cairdial@googlegroups.com](mailto:cairdial@googlegroups.com) by ~~April 28~~ **May 5 (extended)**.
 
 # Important Dates
 
  - Long and short papers deadline: ~~**March 11, 2018**~~
- - Position papers deadline: ~~**April 28, 2018**~~ **Extended to May 5, 2018**
+ - Position papers deadline: ~~**April 28, 2018**~~ **May 5, 2018 (extended)**
  - Special Session at SIGDIAL 2018: **July 12-14, 2018**
 
 # Session Committee
